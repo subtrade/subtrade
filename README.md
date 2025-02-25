@@ -1,4 +1,4 @@
-## Subtrade
+## Subtrade (WIP)
 
 The open-source DTAO trading bot/platform, made for you!
 
